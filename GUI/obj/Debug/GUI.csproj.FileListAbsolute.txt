@@ -1,0 +1,10 @@
+E:\DoAnASP\GUI\bin\GUI.dll
+E:\DoAnASP\GUI\bin\GUI.pdb
+E:\DoAnASP\GUI\bin\BUS.dll
+E:\DoAnASP\GUI\bin\DTO.dll
+E:\DoAnASP\GUI\bin\BUS.pdb
+E:\DoAnASP\GUI\bin\DTO.pdb
+E:\DoAnASP\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\DoAnASP\GUI\obj\Debug\GUI.dll
+E:\DoAnASP\GUI\obj\Debug\GUI.pdb
+E:\DoAnASP\GUI\bin\GUI.dll.config

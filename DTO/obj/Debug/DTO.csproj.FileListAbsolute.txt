@@ -1,0 +1,5 @@
+E:\DoAnASP\DTO\bin\Debug\DTO.dll
+E:\DoAnASP\DTO\bin\Debug\DTO.pdb
+E:\DoAnASP\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\DoAnASP\DTO\obj\Debug\DTO.dll
+E:\DoAnASP\DTO\obj\Debug\DTO.pdb
